@@ -1,0 +1,2 @@
+# li
+lista de bloqueo
